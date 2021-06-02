@@ -6,4 +6,7 @@ public class UserBean {
 	 System.out.println("again doing prec...123dfssss");
 
  }
+ public void z() {
+	 System.out.println("dsf");
+ }
 }
